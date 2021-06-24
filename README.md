@@ -1,4 +1,4 @@
-# vue-template
+# vue template made in typescript
 
 ## Project setup
 ```
